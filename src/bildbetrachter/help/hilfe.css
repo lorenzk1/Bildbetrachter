@@ -1,0 +1,33 @@
+h1 { color:white;
+     font-family: Verdana;
+     background-color: blue;
+     text-align: center;
+     margin-top: 0cm;
+     margin-left: 0cm;
+     margin-right: 0cm;
+     margin-bottom: 0cm;
+     padding-top: 0.4cm;
+     padding-bottom: 0.4cm;
+}
+h2 { font-family: Verdana,sans-serif;
+}
+li {
+    font-family: Verdana,sans-serif;
+}
+main {
+    position: relative;
+}
+div {
+    position: absolute;   
+    text-align: left;
+    top: 0cm;
+}
+a:link { color: blue; } 
+a:visited { color: black; } 
+a:active { border: none } 
+a:hover { background-color: blue; color: white; }
+table,
+td,
+th {
+    border: 1px solid black;
+}
